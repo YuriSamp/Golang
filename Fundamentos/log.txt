@@ -1,0 +1,6 @@
+31/10/2022 11:19:02 - https://www.alura.com.br- online: true
+31/10/2022 11:19:02 - https://www.caelum.com.br- online: true
+31/10/2022 11:19:07 - https://www.alura.com.br- online: true
+31/10/2022 11:19:08 - https://www.caelum.com.br- online: true
+31/10/2022 11:19:13 - https://www.alura.com.br- online: true
+31/10/2022 11:19:13 - https://www.caelum.com.br- online: true
